@@ -303,7 +303,7 @@ secretsdump.py domain/user:pass@<dc-ip>
 |------|---------|------|
 | BloodHound | AD attack path mapping | [BloodHoundAD/BloodHound](https://github.com/BloodHoundAD/BloodHound) — [my fork](https://github.com/0xdolus/BloodHound) |
 | CrackMapExec | AD enumeration & attacks | [byt3bl33d3r/CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) — [my fork](https://github.com/0xdolus/CrackMapExec) |
-| Impacket | AD protocol attacks | [SecureAuthCorp/impacket](https://github.com/SecureAuthCorp/impacket) — [my fork](https://github.com/0xdolus/impacket) |
+| Impacket | AD protocol attacks | [fortra/impacket](https://github.com/fortra/impacket) — [my fork](https://github.com/0xdolus/impacket) |
 
 ---
 
